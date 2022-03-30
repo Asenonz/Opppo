@@ -1,0 +1,4 @@
+﻿  opppo.cpp
+C:\Users\Aseno\source\repos\opppo\opppo\opppo.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Aseno\source\repos\opppo\opppo\opppo.cpp(27,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  opppo.vcxproj -> C:\Users\Aseno\source\repos\opppo\x64\Debug\opppo.exe
